@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="camera_preview_background">#000000</color>
+    <string name="action_share">Share</string>
+    <string name="app_name">Instant Mustache</string>
+    <string name="content_description_take_picture">Take picture</string>
+    <string name="toast_error_camera_preview">Can\'t initialize camera preview.</string>
+    <string name="toast_error_save_picture">Can\'t save picture on external storage.</string>
+    <style name="AppTheme" parent="@android:style/Theme.Holo">
+    </style>
+</resources>

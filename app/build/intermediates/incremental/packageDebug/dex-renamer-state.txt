@@ -1,0 +1,7 @@
+#Fri Dec 09 19:14:57 BRST 2016
+base.0=D\:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_acf3bc28e9c512c97a635b71ee3057684ced1753
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_96026b5f3aea31183aa7ef937c837da541baba46\\classes.dex
+base.1=D\:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_96026b5f3aea31183aa7ef937c837da541baba46
+file.0=D\:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_acf3bc28e9c512c97a635b71ee3057684ced1753\\classes.dex

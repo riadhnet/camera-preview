@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "D:\\Projects\\instant-mustache-studio\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\instant-mustache-studio\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "D:\\Projects\\instant-mustache-studio\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    }
+]
